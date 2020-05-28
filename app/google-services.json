@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400465833754",
+    "firebase_url": "https://ecupcake.firebaseio.com",
+    "project_id": "ecupcake",
+    "storage_bucket": "ecupcake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400465833754:android:78c1f1c7fb56a1ba8cc6a3",
+        "android_client_info": {
+          "package_name": "com.example.ecupcake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400465833754-s009i0l5rr1kdgmjf2qngfernoaqgs2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecupcake",
+            "certificate_hash": "92badaf010559f08550c968d48a2ff759df8b19d"
+          }
+        },
+        {
+          "client_id": "400465833754-imj8rke0q4gututar1k8u7s9nf8oh0kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZqcg2H9oZfcjaDV0MDIUHxjh_veRjrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400465833754-imj8rke0q4gututar1k8u7s9nf8oh0kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
