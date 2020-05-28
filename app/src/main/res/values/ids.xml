@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_host_fragment" type="id" />
+    <item name="action_settings" type="id" />
+    <item name="cart_list" type="id" />
+    <item name="next_btn" type="id" />
+    <item name="total_price" type="id" />
+    <item name="msg1" type="id" />
+</resources>
