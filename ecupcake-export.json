@@ -1,0 +1,68 @@
+{
+  "Admin" : {
+    "123456" : {
+      "8535" : {
+        "name" : "Mishal Areef",
+        "password" : "mish",
+        "phone" : "8535"
+      },
+      "name" : "adminx",
+      "password" : "admin0",
+      "phone" : "123456"
+    }
+  },
+  "Products" : {
+    "Apr 02, 202002:09:50 AM" : {
+      "category" : "Classic",
+      "date" : "Apr 02, 2020",
+      "description" : "4 set of vanilla classic cupcakes",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ecupcake.appspot.com/o/Product%20Images%2Fimage%3A47Apr%2002%2C%20202002%3A09%3A50%20AM.jpg?alt=media&token=31d82951-4a92-4687-8abd-328f7e60d4b3",
+      "pid" : "Apr 02, 202002:09:50 AM",
+      "pname" : "Vanilla Cupcakes 4 set",
+      "price" : "5",
+      "time" : "02:09:50 AM"
+    },
+    "Apr 09, 202003:07:03 AM" : {
+      "category" : "Baby",
+      "date" : "Apr 09, 2020",
+      "description" : "Set of 12 baby cupcakes for boys",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ecupcake.appspot.com/o/Product%20Images%2Fimage%3A42Apr%2009%2C%20202003%3A07%3A03%20AM.png?alt=media&token=14604570-62b7-4780-9a51-34e2d847cf21",
+      "pid" : "Apr 09, 202003:07:03 AM",
+      "pname" : "baby cupcake boys",
+      "price" : "120",
+      "time" : "03:07:03 AM"
+    },
+    "Apr 09, 202003:38:21 AM" : {
+      "category" : "Classic",
+      "date" : "Apr 09, 2020",
+      "description" : "Vanilla Classic Cupcake 1pc",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ecupcake.appspot.com/o/Product%20Images%2Fimage%3A37Apr%2009%2C%20202003%3A38%3A21%20AM.png?alt=media&token=376f7747-28e9-4d50-9eac-8b75ef47ce1f",
+      "pid" : "Apr 09, 202003:38:21 AM",
+      "pname" : "Classic cupcakes",
+      "price" : "2o",
+      "time" : "03:38:21 AM"
+    },
+    "Apr 12, 202012:51:51 PM" : {
+      "category" : "Mother",
+      "date" : "Apr 12, 2020",
+      "description" : "aa",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/ecupcake.appspot.com/o/Product%20Images%2Fimage%3A129Apr%2012%2C%20202012%3A51%3A51%20PM.png?alt=media&token=2ce52832-df04-4e4c-af21-b9cb74322ff1",
+      "pid" : "Apr 12, 202012:51:51 PM",
+      "pname" : "aaaa",
+      "price" : "111",
+      "time" : "12:51:51 PM"
+    }
+  },
+  "Users" : {
+    "911" : {
+      "name" : "Corona Virus Need to Go",
+      "password" : "boomer",
+      "phone" : "911"
+    },
+    "0767663701" : {
+      "name" : "Mishal Areef",
+      "password" : "12345",
+      "phone" : "0767663701"
+    }
+  }
+}
